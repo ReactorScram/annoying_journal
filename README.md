@@ -3,9 +3,7 @@
 A journal that pops up and steals keyboard focus every 37 minutes,
 to force you to write an entry.
 
-<video autoplay loop muted>
-<source src="videos/002-demo.webm" type="video/webm">
-</video>
+[Video](videos/002-demo.webm)
 
 ## Output
 
