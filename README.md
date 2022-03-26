@@ -19,4 +19,6 @@ in [JSONL format](https://jsonlines.org/).
 
 Git repo: https://six-five-six-four.com/git/reactor/annoying_journal
 
+Backup Git repo: https://github.com/ReactorScram/annoying_journal
+
 License: [AGPLv3](COPYING)
