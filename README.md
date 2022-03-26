@@ -14,3 +14,9 @@ in [JSONL format](https://jsonlines.org/).
 
 - `--interval-secs <u64>` - Change the pop-up interval (default is 2,225)
 - `--prompt <String>` - Change the prompt that shows above the editor.
+
+## Misc
+
+Git repo: https://six-five-six-four.com/git/reactor/annoying_journal
+
+License: [AGPLv3](COPYING)

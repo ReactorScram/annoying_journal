@@ -1,9 +1,22 @@
 [package]
-name = "annoying_journal"
-version = "0.1.0"
-edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["ReactorScram"]
+description = "A journal that pops up regularly to force you to write entries"
+edition = "2021"
+keywords = ["gui", "journal"]
+license = "AGPL-3.0"
+name = "annoying_journal"
+readme = "README.md"
+repository = "https://six-five-six-four.com/git/reactor/annoying_journal"
+version = "0.1.0"
+
+exclude = [
+	"COPYING",
+	"README.md",
+	"annoying_journal",
+	"raw_videos",
+	"videos",
+]
 
 [dependencies]
 
